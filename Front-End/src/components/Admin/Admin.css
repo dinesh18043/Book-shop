@@ -1,0 +1,17 @@
+.item-form{
+    width: 50%;
+    background-color: aqua;
+    margin: 50px auto;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+    display: flex;
+}
+.admin-container > form > input{
+    outline: none;
+}
+.back-shop{
+    font-size: xx-large;
+    font-weight: 800;
+    padding: 10px 30px;
+}

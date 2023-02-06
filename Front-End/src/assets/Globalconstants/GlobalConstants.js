@@ -1,0 +1,1 @@
+export const navLinks = ["Home","All","Engineering", "Medical", "Arts", "CBSE", "Competitive", "Story"];
